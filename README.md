@@ -1,8 +1,8 @@
 <div align="center">
 
-# Henry Chiao
+# Henry Chiao （CHIAO YENTA）
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Network+Configuration+Management;System+Utilities+Development;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=A free man, creator and code porter.;System+Utilities+Development;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenryChiao&label=Profile%20Views&color=3b82f6&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao?tab=followers)
