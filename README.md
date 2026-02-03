@@ -1,8 +1,8 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A733&vCenter=true&width=600&lines=一个自由的人+%7C+A+Free+Soul)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B9F6&vCenter=true&width=600&lines=意见家+%7C+文章创作者+%7C+代码搬运工)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&vCenter=true&width=600&lines=重度收集症+%7C+Telegram频道主+%7C+影视资源家)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A733&vCenter=true&width=600&lines=A+Free+Soul+%7C+Opinionated+Writer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B9F6&vCenter=true&width=600&lines=Content+Creator+%7C+Code+Porter+%7C+Collector)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&vCenter=true&width=600&lines=Telegram+Channel+Owner+%7C+Media+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
