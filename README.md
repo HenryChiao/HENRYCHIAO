@@ -66,7 +66,7 @@ Curated collection of Windows utilities covering system optimization, hardware d
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenryChiao&show_icons=true&theme=transparent&hide_border=true" alt="Henry's GitHub Stats" height="150" />
   
-  <img src="https://streak-stats.demolab.com?user=HenryChiao&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=HenryChiao&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150" />
 </div>
 
 <table>
