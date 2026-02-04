@@ -63,7 +63,7 @@ Curated collection of Windows utilities covering system optimization, hardware d
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryChiao&theme=transparent&hide_border=true)](https://github.com/HenryChiao)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HenryChiao&theme=transparent&hide_border=true)](https://github.com/HenryChiao)
 
 </div>
 <div align="center">
