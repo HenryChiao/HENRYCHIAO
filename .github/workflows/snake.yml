@@ -29,9 +29,7 @@ jobs:
       - name: Generate github-streak.svg
         run: |
           curl -L \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: image/svg+xml" \
-            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=default&hide_border=true" \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=default&hide_border=true&token=${{ secrets.GITHUB_TOKEN }}" \
             -o dist/github-streak.svg
 
       - name: Push SVG assets to output branch
