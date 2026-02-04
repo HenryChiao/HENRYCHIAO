@@ -66,7 +66,9 @@ Curated collection of Windows utilities covering system optimization, hardware d
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryChiao&theme=transparent&hide_border=true)](https://github.com/HenryChiao)
 
 </div>
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HenryChiao/HenryChiao/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</div>
 <table>
 <tr>
 <td width="50%">
