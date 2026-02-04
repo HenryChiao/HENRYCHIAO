@@ -64,9 +64,9 @@ Curated collection of Windows utilities covering system optimization, hardware d
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenryChiao&show_icons=true&theme=transparent&hide_border=true" alt="Henry's GitHub Stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryChiao&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryChiao&theme=transparent&hide_border=true)](https://github.com/HenryChiao)
+
 </div>
 
 <table>
