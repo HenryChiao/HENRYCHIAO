@@ -2,229 +2,132 @@
 
 # Henry Chiao
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=A+Free+Soul+%7C+Opinionated+Writer;Content+Creator+%7C+Code+Porter;Collector+%7C+Telegram+Channel+Owner;Media+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Network+Proxy+Configuration;System+Utilities+Development;Open+Source+Enthusiast;Making+Tech+Accessible)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HenryChiao&label=Profile%20Views&color=3b82f6&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao?tab=repositories)
+<a href="https://github.com/HenryChiao">
+  <img src="https://img.shields.io/github/followers/HenryChiao?label=Follow&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/HenryChiao?tab=stars">
+  <img src="https://img.shields.io/github/stars/HenryChiao?style=social" alt="GitHub Stars" />
+</a>
+
+<br/>
+
+"Simplicity is the ultimate sophistication"
+Building tools that are powerful yet easy to use.
 
 </div>
 
 ---
 
-
-## Featured Projects
+### Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### Mihomo YAML Configs
-[![Stars](https://img.shields.io/github/stars/HenryChiao/mihomo_yamls?style=flat-square&color=3b82f6)](https://github.com/HenryChiao/mihomo_yamls)
-[![Forks](https://img.shields.io/github/forks/HenryChiao/mihomo_yamls?style=flat-square&color=3b82f6)](https://github.com/HenryChiao/mihomo_yamls/fork)
-[![License](https://img.shields.io/github/license/HenryChiao/mihomo_yamls?style=flat-square)](https://github.com/HenryChiao/mihomo_yamls/blob/main/LICENSE)
-
-A comprehensive collection of Mihomo (Clash Meta) configurations with daily automated updates.
-
-**Highlights:**
-- Official Wiki templates for developers
-- Production-ready configs with adblock
-- Smart mode for OpenClash/soft routers
-- Mobile modules for Android root users
-- Automated daily synchronization
-
-[View Repository →](https://github.com/HenryChiao/mihomo_yamls)
-
-</td>
-<td width="50%">
-
-### Windows Simple Tool Kit
-[![Stars](https://img.shields.io/github/stars/HenryChiao/Windows-Simple-Tool-Kit?style=flat-square&color=3b82f6)](https://github.com/HenryChiao/Windows-Simple-Tool-Kit)
-[![Forks](https://img.shields.io/github/forks/HenryChiao/Windows-Simple-Tool-Kit?style=flat-square&color=3b82f6)](https://github.com/HenryChiao/Windows-Simple-Tool-Kit/fork)
-
-Curated collection of Windows utilities covering system optimization, hardware detection, and storage management.
-
-**Highlights:**
-- System optimization tools
-- Hardware monitoring utilities
-- Storage management solutions
-- Desktop customization
-- Security and antivirus tools
-- Essential runtime libraries
-
-[View Repository →](https://github.com/HenryChiao/Windows-Simple-Tool-Kit)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Mihomo YAML Configs</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Clash-Meta-blue?style=flat-square&logo=c" alt="Clash Meta">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active">
+      </div>
+      <br />
+      <p>A comprehensive collection of Mihomo (Clash Meta) configurations with daily automated updates.</p>
+      <ul>
+        <li>Official Wiki templates for developers</li>
+        <li>Production-ready configs with AdBlock</li>
+        <li>Smart mode for OpenClash/Soft Routers</li>
+        <li>Android Root module support</li>
+        <li>Daily Automated synchronization</li>
+      </ul>
+      <div align="center">
+        <a href="你的_MIHOMO_仓库链接"><strong>View Repository →</strong></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Windows Simple Tool Kit</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows">
+        <img src="https://img.shields.io/badge/Scripts-Batch%2FShell-orange?style=flat-square" alt="Batch">
+      </div>
+      <br />
+      <p>Curated collection of Windows utilities covering optimization, hardware detection, and management.</p>
+      <ul>
+        <li>System Optimization tools</li>
+        <li>Hardware Monitoring utilities</li>
+        <li>Storage Management solutions</li>
+        <li>Desktop Customization</li>
+        <li>Security & Antivirus tools</li>
+      </ul>
+      <div align="center">
+        <a href="你的_WINDOWS_KIT_仓库链接"><strong>View Repository →</strong></a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
 
-
-## GitHub Activity
+### GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryChiao&theme=transparent&hide_border=true)](https://github.com/HenryChiao)
+<img src="https://github.com/HenryChiao/HenryChiao/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 
-</div>
+<br/>
 
 <table>
-<tr>
-<td width="50%">
-
-**Repository Statistics**
-
-```text
-Total Repositories:     10+
-Total Stars Earned:     200+
-Primary Languages:      YAML, Shell, Markdown
-Active Projects:        2
-License Preference:     GPL-3.0, MIT
-```
-
-</td>
-<td width="50%">
-
-**Contribution Metrics**
-
-```text
-Daily Commits:          Active
-Open Source Focus:      Network Tools
-Documentation:          Comprehensive
-CI/CD Integration:      GitHub Actions
-Update Frequency:       Daily Automated
-```
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HenryChiao&show_icons=true&theme=buefy&hide_border=true&count_private=true&hide_rank=false" alt="Henry's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryChiao&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
-
----
-
-
-## Recent Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryChiao&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/HenryChiao)
 
 </div>
 
 ---
 
-
-## Technical Focus
-
-<table>
-<tr>
-<td width="50%">
-
-**Primary Interests**
-- Network Proxy Configuration
-- System Utilities Development
-- Open Source Maintenance
-- Automated Workflows
-
-</td>
-<td width="50%">
-
-**Technical Stack**
-- Configuration: YAML, JSON
-- Automation: GitHub Actions
-- Documentation: Markdown
-- Version Control: Git
-
-</td>
-</tr>
-</table>
-
----
-
-
-## Project Philosophy
+### Technical Stack
 
 <div align="center">
 
-> *"Simplicity is the ultimate sophistication"*
-> 
-> Building tools that are powerful yet easy to use, comprehensive yet well-organized.  
-> Every project aims to solve real problems efficiently.
+| Configuration | Automation & CI/CD | Scripting & Docs | Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> | <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> | <img src="https://img.shields.io/badge/Workflows-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /> | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
 </div>
 
 ---
 
-
-## Open Source Commitment
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**Licensed**  
-GPL-3.0 & MIT
-
-</td>
-<td width="25%" align="center">
-
-**Transparent**  
-Clear Documentation
-
-</td>
-<td width="25%" align="center">
-
-**Community**  
-Active Maintenance
-
-</td>
-<td width="25%" align="center">
-
-**Compliant**  
-Proper Attribution
-
-</td>
-</tr>
-</table>
-
----
-
-
-## How to Contribute
-
-Contributions are welcome through:
-
-- **Star** projects you find useful
-- **Report** bugs and issues  
-- **Suggest** features and improvements
-- **Submit** pull requests with enhancements
-- **Improve** documentation
-
-Check individual repositories for specific contribution guidelines.
-
----
-
-
-## Quick Links
+### Open Source Commitment
 
 <div align="center">
 
-[![Mihomo YAML](https://img.shields.io/badge/Mihomo_YAML_Configs-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenryChiao/mihomo_yamls)
-[![Windows Toolkit](https://img.shields.io/badge/Windows_Toolkit-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenryChiao/Windows-Simple-Tool-Kit)
+| Licensed | Transparent | Community | Compliant |
+| :---: | :---: | :---: | :---: |
+| **GPL-3.0 & MIT**<br/>Open for everyone | **Clear Docs**<br/>Easy to understand | **Active Maintainer**<br/>Daily updates | **Attribution**<br/>Respecting authors |
 
 </div>
 
+### How to Contribute
+
+Contributions are welcome. Here is how you can help:
+
+* Star projects you find useful.
+* Report bugs in the issues section.
+* Suggest features or improvements.
+* Submit Pull Requests to enhance the code.
+
 ---
 
 <div align="center">
 
----
+Making technology accessible, one commit at a time.
 
-### Making technology accessible, one commit at a time
-
-**If you find these projects helpful, please consider giving them a star**
-
-[![GitHub followers](https://img.shields.io/github/followers/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao)
-[![GitHub stars](https://img.shields.io/github/stars/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao)
+<img src="https://komarev.com/ghpvc/?username=HenryChiao&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
