@@ -2,7 +2,7 @@ name: Generate Snake & Streak
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # 每天 UTC 00:00
   workflow_dispatch:
   push:
     branches:
@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate github-contribution-grid-snake.svg
@@ -29,10 +29,12 @@ jobs:
       - name: Generate github-streak.svg
         run: |
           curl -L \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: image/svg+xml" \
             "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=default&hide_border=true" \
             -o dist/github-streak.svg
 
-      - name: Push to output branch
+      - name: Push SVG assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
