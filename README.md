@@ -1,7 +1,8 @@
 <div align="center">
 
-# Hi, this is ChiaoYenta
-## can also call me Henry Chiao
+# Hi, everyone
+This is ChiaoYenta
+can also call me Henry Chiao
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=A+Free+Soul+%7C+Opinionated+Writer;Content+Creator+%7C+Code+Porter;Collector+%7C+Telegram+Channel+Owner;Media+Enthusiast)](https://git.io/typing-svg)
 
