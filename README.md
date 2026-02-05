@@ -8,7 +8,7 @@
 <!-- Bleach Theme Visitor Counter -->
 <img src="https://count.getloli.com/get/@HenryChiao?theme=rule34" alt="Visitor Count" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=HenryChiao&label=Profile%20Views&color=3b82f6&style=flat-square)
+[![Profile Views](https://count.getloli.com/get/@henrychiao?theme=capoo-2)](https://github.com/HenryChiao)
 [![GitHub followers](https://img.shields.io/github/followers/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao?tab=repositories)
 
