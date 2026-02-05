@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hi, this is ChiaoYenta.
-## can also call me Henry Chiao.
+# Hi, this is ChiaoYenta
+## can also call me Henry Chiao
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=A+Free+Soul+%7C+Opinionated+Writer;Content+Creator+%7C+Code+Porter;Collector+%7C+Telegram+Channel+Owner;Media+Enthusiast)](https://git.io/typing-svg)
+
+<!-- Bleach Theme Visitor Counter -->
+<img src="https://count.getloli.com/get/@HenryChiao?theme=rule34" alt="Visitor Count" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenryChiao&label=Profile%20Views&color=3b82f6&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao?tab=followers)
@@ -222,4 +225,3 @@ Check individual repositories for specific contribution guidelines.
 [![GitHub stars](https://img.shields.io/github/stars/HenryChiao?style=flat-square&color=3b82f6)](https://github.com/HenryChiao)
 
 </div>
-
